@@ -4,4 +4,4 @@
 - 😄 Pronouns: he/him
   <br>
 ![](https://github.com/ZhaoZMM/ZhaoZMM/blob/main/cutie-cat-well.gif)
-![](https://github.com/ZhaoZMM/ZhaoZMM/blob/main/cutie-cat-well.gif)
+![](https://github.com/ZhaoZMM/ZhaoZMM/blob/main/giphy.webp)
