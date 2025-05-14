@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 🌱 I’m currently learning Python as an apprenticeship in training for JPMC
-- 📫 How to reach me: zhaosuper123@gmail.com
-                      (929)430-9966
+- 🌱 I'm currently in an apprenticeship with JPMC as a Junior Coder
+- 📫 How to reach me: zhaozhang8624@gmail.com
+                      (929) 430-9966
 - 😄 Pronouns: he/him
 - 🏫 School: Brooklyn Technical High School
 - 🎂 Birthdate: July 8
