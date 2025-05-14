@@ -1,7 +1,10 @@
 ## Hi there 👋
 - 🌱 I'm currently in an apprenticeship with JPMC as a Junior Coder
-- 📫 How to reach me: zhaozhang8624@gmail.com
-                      (929) 430-9966
+- 📫 How to reach me:
+  <ul>
+      <li>zhaozhang8624@gmail.com</li>
+      <li>(929) 430-9966</li>
+  </ul>
 - 😄 Pronouns: he/him
 - 🏫 School: Brooklyn Technical High School
 - 🎂 Birthdate: July 8
