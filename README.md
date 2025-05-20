@@ -10,5 +10,5 @@
 - 🏫 School: Brooklyn Technical High School
 - 🎂 Birthdate: July 8
   <br>
-![](https://github.com/ZhaoZMM/ZhaoZMM/blob/main/cutie-cat-well.gif)
-![](https://github.com/ZhaoZMM/ZhaoZMM/blob/main/giphy.webp)
+<img src="https://github.com/ZhaoZMM/ZhaoZMM/blob/main/cutie-cat-well.gif" height="300px" width="300px"/>
+<img src="https://github.com/ZhaoZMM/ZhaoZMM/blob/main/giphy.webp" height="300px" width="300px"/>
